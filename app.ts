@@ -4,4 +4,3 @@ const addme = (a:number): number=> {
 
 const ans = addme(5)
 
-console.log(ans)
